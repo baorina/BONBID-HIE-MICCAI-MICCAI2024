@@ -1,5 +1,4 @@
 # BONBID-HIE-MICCAI-MICCAI2024
-# BONBID-HIE 2024 release for MICCAI 2024
 Challanege website: https://bonbid-hie2024.grand-challenge.org
 
 Dataset download: 
