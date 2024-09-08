@@ -3,7 +3,7 @@ Challanege website: https://bonbid-hie2024.grand-challenge.org
 
 Dataset download: 
 
-Preprint paper: https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1.abstract
+Preprint paper for Lesion Segmentation: https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1.abstract
 
 @article{bao2023boston,\
   title={BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy (BONBID-HIE): Part I. MRI and Manual Lesion Annotation},\
@@ -14,7 +14,8 @@ Preprint paper: https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1.abst
   publisher={Cold Spring Harbor Laboratory}\
 }
 
-BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy (BONBID-HIE): Part II. Clinical and Outcome Labeling
+BOston Neonatal Brain Injury Dataset for Hypoxic Ischemic Encephalopathy (BONBID-HIE): Part II. NICU and 2-Year Neurocognitive Outcome
+Data description: https://github.com/baorina/BONBID-HIE-MICCAI-MICCAI2024/blob/main/MICCAI2024-BONBID-part2.pdf
 
 
 Contact:
