@@ -1,7 +1,8 @@
 # BONBID-HIE-MICCAI-MICCAI2024
 Challanege website: https://bonbid-hie2024.grand-challenge.org
 
-Dataset download: 
+Dataset download: Part I. https://zenodo.org/records/10602767
+                  Part II. https://zenodo.org/records/13690270
 
 Preprint paper for Lesion Segmentation: https://www.biorxiv.org/content/10.1101/2023.06.30.546841v1.abstract
 
