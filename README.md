@@ -36,8 +36,8 @@ For using these dockers, please read the README.md in each folder.
 
 Dockers for participating teams for MICCAI 2024
 
-Lesion Segmentation Track: lesionseg
-Outcome Prediction Track: outcomepred
+**Lesion Segmentation Track: lesionseg**
+**Outcome Prediction Track: outcomepred**
 
 For using these dockers, please read the README.md in each folder.
 
