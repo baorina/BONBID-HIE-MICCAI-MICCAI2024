@@ -26,11 +26,18 @@ Yangming Ou: Yangming.Ou@childrens.harvard.edu
 License:
 All training data has been made publicly available under the CC BY NC license (https://creativecommons.org/licenses/by-nc/4.0/legalcode.en), allowing academic use with credit, prohibiting commercial use without owner’s permission). 
 
-Dockers for participating teams:
+Dockers for participating teams for MICCAI 2023: https://github.com/baorina/BONBID-HIE-MICCAI2023/tree/main
 
 --bonbidhie_eval: evaluation docker for BONBID-HIE MICCAI 2023 Challenge. 
 
 --bonbidhie2023_algorithms: algorithms demo docker for BONBID-HIE MICCAI 2023 Challenge.
+
+For using these dockers, please read the README.md in each folder.
+
+Dockers for participating teams for MICCAI 2024
+
+Lesion Segmentation Track: lesionseg
+Outcome Prediction Track: outcomepred
 
 For using these dockers, please read the README.md in each folder.
 
